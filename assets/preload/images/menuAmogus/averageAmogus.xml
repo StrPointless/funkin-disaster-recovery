@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="averageAmogus.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="averageAmogusSquezee0000" x="0" y="0" width="138" height="205"/>
+	<SubTexture name="averageAmogusSquezee0001" x="140" y="0" width="134" height="201" frameX="-2" frameY="-1" frameWidth="138" frameHeight="205"/>
+	<SubTexture name="averageAmogusSquezee0002" x="276" y="0" width="130" height="197" frameX="-4" frameY="-3" frameWidth="138" frameHeight="205"/>
+	<SubTexture name="averageAmogusSquezee0003" x="0" y="207" width="133" height="199" frameX="-3" frameY="-2" frameWidth="138" frameHeight="205"/>
+	<SubTexture name="averageAmogusSquezee0004" x="135" y="207" width="136" height="202" frameX="-1" frameY="-1" frameWidth="138" frameHeight="205"/>
+	<SubTexture name="averageAmogusSquezee0005" x="0" y="0" width="138" height="205"/>
+</TextureAtlas>

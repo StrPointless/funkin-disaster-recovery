@@ -1,0 +1,23 @@
+{	
+	"titlex":310,
+	"titley":80,
+	"startx":345,
+	"starty":535,
+	"gfx":18,
+	"gfy":200,
+	"forceGFPosition":true,
+	"backgroundSprite":"001",
+	"animatedBackground":false,
+	"bgSpriteX":0,
+	"bgSpritey":0,
+	"bgSpritePrefix":"",
+	"bgSpriteAnim":"",
+	"bgSpriteLoop":true,
+	"bgSpriteFrames":24,
+	"bgSpriteFlipX":false,
+	"bgSpriteFlipy":false,
+	"bgSpriteForce":false,
+	"bgSpriteReverseAnim":false,
+	"bgSpriteStartingFrame":0,
+	"bpm":102
+}

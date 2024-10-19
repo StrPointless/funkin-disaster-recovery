@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="rainbowAmogus.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="rainbowAmogusSquezee0000" x="0" y="0" width="133" height="181"/>
+	<SubTexture name="rainbowAmogusSquezee0001" x="135" y="0" width="129" height="177" frameX="-2" frameY="-1" frameWidth="133" frameHeight="181"/>
+	<SubTexture name="rainbowAmogusSquezee0002" x="266" y="0" width="125" height="174" frameX="-4" frameY="-2" frameWidth="133" frameHeight="181"/>
+	<SubTexture name="rainbowAmogusSquezee0003" x="0" y="183" width="127" height="177" frameX="-3" frameY="-1" frameWidth="133" frameHeight="181"/>
+	<SubTexture name="rainbowAmogusSquezee0004" x="129" y="183" width="131" height="178" frameX="-1" frameY="-1" frameWidth="133" frameHeight="181"/>
+	<SubTexture name="rainbowAmogusSquezee0005" x="0" y="0" width="133" height="181"/>
+</TextureAtlas>

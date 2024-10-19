@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Arrows.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="arrow down0000" x="0" y="0" width="47" height="53"/>
+	<SubTexture name="arrow push down0000" x="49" y="0" width="45" height="51"/>
+	<SubTexture name="arrow push up0000" x="96" y="0" width="29" height="50"/>
+	<SubTexture name="arrow up0000" x="0" y="55" width="29" height="52"/>
+</TextureAtlas>

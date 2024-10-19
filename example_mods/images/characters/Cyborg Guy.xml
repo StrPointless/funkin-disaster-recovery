@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Cyborg Guy.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Cyborg Down0000" x="0" y="0" width="260" height="642" frameX="0" frameY="-7" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0001" x="262" y="0" width="258" height="645" frameX="-1" frameY="-4" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0002" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0003" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0004" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0005" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0006" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0007" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0008" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0009" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0010" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0011" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0012" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Down0013" x="522" y="0" width="257" height="649" frameX="-1" frameY="0" frameWidth="260" frameHeight="649"/>
+	<SubTexture name="Cyborg Idle0000" x="781" y="0" width="277" height="697" frameX="0" frameY="-13" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0001" x="1060" y="0" width="276" height="698" frameX="-1" frameY="-12" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0002" x="1338" y="0" width="275" height="700" frameX="-2" frameY="-10" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0003" x="1615" y="0" width="274" height="702" frameX="-3" frameY="-8" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0004" x="1891" y="0" width="272" height="703" frameX="-4" frameY="-7" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0005" x="2165" y="0" width="271" height="705" frameX="-5" frameY="-5" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0006" x="2438" y="0" width="270" height="706" frameX="-6" frameY="-4" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0007" x="2710" y="0" width="268" height="707" frameX="-7" frameY="-3" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0008" x="2980" y="0" width="267" height="709" frameX="-8" frameY="-1" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0009" x="3249" y="0" width="266" height="710" frameX="-9" frameY="0" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0010" x="3249" y="0" width="266" height="710" frameX="-9" frameY="0" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0011" x="3249" y="0" width="266" height="710" frameX="-9" frameY="0" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0012" x="3249" y="0" width="266" height="710" frameX="-9" frameY="0" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Idle0013" x="3249" y="0" width="266" height="710" frameX="-9" frameY="0" frameWidth="277" frameHeight="710"/>
+	<SubTexture name="Cyborg Left0000" x="3517" y="0" width="306" height="678" frameX="0" frameY="-3" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0001" x="0" y="712" width="304" height="680" frameX="-10" frameY="-1" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0002" x="306" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0003" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0004" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0005" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0006" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0007" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0008" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0009" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0010" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0011" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0012" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Left0013" x="609" y="712" width="301" height="681" frameX="-20" frameY="0" frameWidth="321" frameHeight="681"/>
+	<SubTexture name="Cyborg Right0000" x="912" y="712" width="446" height="682" frameX="0" frameY="-2" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0001" x="1360" y="712" width="443" height="683" frameX="0" frameY="-1" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0002" x="1805" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0003" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0004" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0005" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0006" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0007" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0008" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0009" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0010" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0011" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0012" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Right0013" x="2247" y="712" width="440" height="684" frameX="0" frameY="0" frameWidth="446" frameHeight="684"/>
+	<SubTexture name="Cyborg Up0000" x="2689" y="712" width="279" height="719"/>
+	<SubTexture name="Cyborg Up0001" x="2970" y="712" width="272" height="717" frameX="-6" frameY="-2" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0002" x="3244" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0003" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0004" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0005" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0006" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0007" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0008" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0009" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0010" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0011" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0012" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+	<SubTexture name="Cyborg Up0013" x="3513" y="712" width="267" height="715" frameX="-10" frameY="-4" frameWidth="279" frameHeight="719"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Myst bump.png">
+	<!-- Created with Adobe Animate version 22.0.0.93 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Myst bump0000" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0001" x="289" y="0" width="308" height="332"/>
+	<SubTexture name="Myst bump0002" x="599" y="0" width="304" height="326" frameX="-2" frameY="-3" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0003" x="0" y="334" width="298" height="320" frameX="-5" frameY="-6" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0004" x="300" y="334" width="292" height="313" frameX="-8" frameY="-9" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0005" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0006" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0007" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0008" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0009" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0010" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0011" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0012" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0013" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+	<SubTexture name="Myst bump0014" x="0" y="0" width="287" height="306" frameX="-10" frameY="-13" frameWidth="308" frameHeight="332"/>
+</TextureAtlas>
